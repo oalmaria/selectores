@@ -1,0 +1,13 @@
+h1 {font-size: 2em; font-style: italic;}
+.error {color: red;}
+.texto span {font-style: italic;color: red;}
+#textoprincipal {text-align: justify;}
+#textoprincipal span {font-style: italic;color: red;}
+#textoprincipal {background: orange;}
+p {color: blue;}
+div.lista {background: yellow;}
+div.lista p{background: red;}
+div#textoprincipal>p{border: 5px solid black;}
+h2+p {color: pink;} 
+p.marron~div.lista ul{background: brown;}
+ 
